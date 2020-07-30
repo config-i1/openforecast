@@ -16,6 +16,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "ADAM"
     url = "/adam/"
 [[menu.main]]
+    name = "smooth"
+    url = "https://forecasting.svetunkov.ru/en/category/r-en/smooth/"
+[[menu.main]]
+    name = "greybox"
+    url = "https://forecasting.svetunkov.ru/en/category/r-en/greybox/"
+[[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/iSvetunkov"
 
