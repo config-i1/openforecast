@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "OpenForecast"
 theme = "ghostwriter"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,14 +13,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "ADAM"
+    url = "/adam/"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/iSvetunkov"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Forecasting using open source software."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
