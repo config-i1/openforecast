@@ -33,8 +33,8 @@ footnotereturnlinkcontents = "↩"
     url = "https://www.linkedin.com/in/isvetunkov/"
     weight = 5
 [[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
+    name = "Homepage"
+    url = "https://forecasting.svetunkov.ru"
     weight = 6
     
 [params]
