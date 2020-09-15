@@ -6,7 +6,6 @@
     <description>Recent content on OpenForecast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,16 +18,6 @@
       <guid>/about/</guid>
       <description>Hi all,
 This website is created in order to provide support for some R packages, related to forecasting. It is maintained by Ivan Svetunkov.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>/post/2020-07-30-intro/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-30-intro/</guid>
-      <description> Hello world! Hi everybody! Welcome to the new website dedicated to forecasting with R. This is a mixture of blog and textbooks. The textbook that we currently have on the website is ADAM. This is an ongoing project. We also have a page with CMAF webinars.
- </description>
     </item>
     
   </channel>
