@@ -1,4 +1,4 @@
-baseurl = "https://nanx.me/hugo-tanka/"
+baseurl = "/"
 title = "OpenForecast"
 author = "Ivan Svetunkov"
 canonifyurls = true
@@ -15,7 +15,8 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Forecasting using open source software"
+  sitename = "OpenForecast"
+  description = "Forecasting using open source software"
 
 [[menu.main]]
     name = "About"

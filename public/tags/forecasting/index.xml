@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forecasting on OpenForecast</title>
-    <link>/hugo-tanka/tags/forecasting/</link>
+    <link>/tags/forecasting/</link>
     <description>Recent content in Forecasting on OpenForecast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-tanka/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction</title>
-      <link>/hugo-tanka/post/2020-07-30-intro/</link>
+      <link>/post/2020-07-30-intro/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-tanka/post/2020-07-30-intro/</guid>
+      <guid>/post/2020-07-30-intro/</guid>
       <description> Hello world! Hi everybody! Welcome to the new website dedicated to forecasting with R. This is a mixture of blog and textbooks. The textbook that we currently have on the website is ADAM. This is an ongoing project.
  </description>
     </item>
     
     <item>
       <title>OpenForecast</title>
-      <link>/hugo-tanka/</link>
+      <link>/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-tanka/</guid>
+      <guid>/</guid>
       <description> Hello world! Hi everybody! Welcome to the new website dedicated to forecasting with R. This is a mixture of blog and textbooks. The textbook that we currently have on the website is ADAM. This is an ongoing project.
  </description>
     </item>
