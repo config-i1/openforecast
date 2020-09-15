@@ -1,0 +1,10 @@
+---
+date: "`r Sys.Date()`"
+title: "Home"
+---
+
+Welcome to the Open Forecast, the website dedicated to forecasting using open source software and more.
+
+This website is created in order to provide support for some R packages, related to forecasting, developed by [Ivan Svetunkov](https://forecasting.svetunkov.ru), lecturer of Marketing Analytics at Lancaster University, UK and a memeber of [Centre for Marketing Analytics and Forecasting](https://www.lancaster.ac.uk/lums/cmaf/).
+
+The website currently has links to posts on [smooth](https://forecasting.svetunkov.ru/en/category/r-en/smooth/) and [greybox](https://forecasting.svetunkov.ru/en/category/r-en/greybox/) packages and to the online textbook on [ADAM](/adam/) (Advanced Dynamic Adaptive Model). The latter is dedicated to a new model, encompassing ARIMA, ETS and regression.

@@ -1,19 +1,42 @@
 baseurl = "/"
+languageCode = "en-us"
 title = "OpenForecast"
 author = "Ivan Svetunkov"
-canonifyurls = true
-languagecode = "en"
-theme = "hugo-tanka"
-
+theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
-disable_mathjax = false
-
-pygmentsstyle      = "vs"
-pygmentscodefences = true
-
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
 
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "ADAM"
+    url = "/adam/"
+    weight = 1
+[[menu.main]]
+    name = "smooth"
+    url = "https://forecasting.svetunkov.ru/en/category/r-en/smooth/"
+    weight = 2
+[[menu.main]]
+    name = "greybox"
+    url = "https://forecasting.svetunkov.ru/en/category/r-en/greybox/"
+    weight = 3
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/iSvetunkov"
+    weight = 4
+[[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/isvetunkov/"
+    weight = 5
+[[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 6
+    
 [params]
   sitename = "OpenForecast"
   description = "Forecasting using open source software"
@@ -36,27 +59,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     height = 50
     alt = "Logo"
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 1
-[[menu.main]]
-    name = "ADAM"
-    url = "/adam/"
-    weight = 2
-[[menu.main]]
-    name = "smooth"
-    url = "https://forecasting.svetunkov.ru/en/category/r-en/smooth/"
-    weight = 3
-[[menu.main]]
-    name = "greybox"
-    url = "https://forecasting.svetunkov.ru/en/category/r-en/greybox/"
-    weight = 4
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/iSvetunkov"
-    weight = 5
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 6
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
