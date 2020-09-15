@@ -1,6 +1,6 @@
 baseurl = "https://nanx.me/hugo-tanka/"
-title = "Hugo Tanka Theme"
-author = "Nan Xiao"
+title = "OpenForecast"
+author = "Ivan Svetunkov"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
@@ -15,25 +15,33 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Hugo Tanka Theme"
+  sitename = "Forecasting using open source software"
 
 [[menu.main]]
-    name = "Home"
-    url = "https://nanx.me"
+    name = "About"
+    url = "/about/"
     weight = 1
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/nanxstats"
+    name = "CMAF webinars"
+    url = "/webinars/"
     weight = 2
 [[menu.main]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/nanxstats"
+    name = "ADAM"
+    url = "/adam/"
     weight = 3
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/nanxstats"
+    name = "smooth"
+    url = "https://forecasting.svetunkov.ru/en/category/r-en/smooth/"
     weight = 4
+[[menu.main]]
+    name = "greybox"
+    url = "https://forecasting.svetunkov.ru/en/category/r-en/greybox/"
+    weight = 5
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/iSvetunkov"
+    weight = 6
 [[menu.main]]
     name = "RSS"
     url = "/index.xml"
-    weight = 5
+    weight = 7
