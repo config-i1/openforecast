@@ -41,26 +41,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
     weight = 1
 [[menu.main]]
-    name = "CMAF webinars"
-    url = "/webinars/"
-    weight = 2
-[[menu.main]]
     name = "ADAM"
     url = "/adam/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "smooth"
     url = "https://forecasting.svetunkov.ru/en/category/r-en/smooth/"
-    weight = 4
+    weight = 3
 [[menu.main]]
     name = "greybox"
     url = "https://forecasting.svetunkov.ru/en/category/r-en/greybox/"
-    weight = 5
+    weight = 4
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/iSvetunkov"
-    weight = 6
+    weight = 5
 [[menu.main]]
     name = "RSS"
     url = "/index.xml"
-    weight = 7
+    weight = 6

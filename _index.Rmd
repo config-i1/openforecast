@@ -1,0 +1,7 @@
+---
+site: blogdown:::blogdown_site
+---
+
+Welcome to the Open Forecast, the website dedicated to forecasting using open source software and more.
+
+This website is created in order to provide support for some R packages, related to forecasting. It is maintained by [Ivan Svetunkov](https://forecasting.svetunkov.ru).
