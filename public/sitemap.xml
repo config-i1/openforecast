@@ -3,48 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>/hugo-tanka/about/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/hugo-tanka/categories/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/forecasting/</loc>
+    <loc>/hugo-tanka/tags/forecasting/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/intro/</loc>
+    <loc>/hugo-tanka/tags/intro/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/07/30/introduction/</loc>
+    <loc>/hugo-tanka/post/2020-07-30-intro/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/hugo-tanka/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/hugo-tanka/post/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/hugo-tanka/categories/r/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/hugo-tanka/tags/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-tanka/post/tanka-theme-demo/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-tanka/post/hello-markdown/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-tanka/post/lorem-ipsum/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
 </urlset>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on OpenForecast</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on OpenForecast</description>
+    <title>Tags on Hugo Tanka Theme</title>
+    <link>/hugo-tanka/tags/</link>
+    <description>Recent content in Tags on Hugo Tanka Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hugo-tanka/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Forecasting</title>
-      <link>/tags/forecasting/</link>
+      <link>/hugo-tanka/tags/forecasting/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/forecasting/</guid>
+      <guid>/hugo-tanka/tags/forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intro</title>
-      <link>/tags/intro/</link>
+      <link>/hugo-tanka/tags/intro/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/intro/</guid>
+      <guid>/hugo-tanka/tags/intro/</guid>
       <description></description>
     </item>
     
