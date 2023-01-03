@@ -17,25 +17,33 @@ footnotereturnlinkcontents = "↩"
     url = "/adam/"
     weight = 1
 [[menu.main]]
+    name = "SBA"
+    url = "/sba/"
+    weight = 2
+[[menu.main]]
+    name = "Papers"
+    url = "/papers.html"
+    weight = 3
+[[menu.main]]
     name = "smooth"
     url = "https://forecasting.svetunkov.ru/en/category/r-en/smooth/"
-    weight = 2
+    weight = 4
 [[menu.main]]
     name = "greybox"
     url = "https://forecasting.svetunkov.ru/en/category/r-en/greybox/"
-    weight = 3
+    weight = 5
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/iSvetunkov"
-    weight = 4
+    weight = 6
 [[menu.main]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/isvetunkov/"
-    weight = 5
+    weight = 7
 [[menu.main]]
     name = "Homepage"
     url = "https://forecasting.svetunkov.ru"
-    weight = 6
+    weight = 8
     
 [params]
   sitename = "OpenForecast"

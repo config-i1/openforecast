@@ -1,0 +1,8 @@
+---
+date: "`r Sys.Date()`"
+title: "Papers"
+---
+
+This page contains the links to the papers relevant to R packages mentioned on this page.
+
+1. [Svetunkov (2023), Smooth forecasting with the smooth package in R](./files/Svetunkov_(2023)_-_Smooth_forecasting_with_the_smooth_package_in_R.pdf). www.openforecast.org.
