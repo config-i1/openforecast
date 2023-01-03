@@ -5,7 +5,7 @@ menu: yes
 
 This page contains the links to the papers relevant to R packages mentioned on the website.
 
-1. [Svetunkov Ivan, 2023. Smooth forecasting with the smooth package in R](./files/Svetunkov_(2023)_-_Smooth_forecasting_with_the_smooth_package_in_R.pdf). [www.openforecast.org](https://www.openforecast.org).
+1. [Svetunkov Ivan, 2023. Smooth forecasting with the smooth package in R](/files/Svetunkov_(2023)_-_Smooth_forecasting_with_the_smooth_package_in_R.pdf). [www.openforecast.org](https://www.openforecast.org).
 
-2. [Svetunkov Ivan, Kourentzes Nikolaos, Ord J. Keith (2022). Complex Exponential Smoothing. Naval Research Logistics](./files/Svetunkov et al. (2022) - Complex Exponential Smoothing.pdf). 31. [10.1002/nav.22074](https://doi.org/10.1002/nav.22074)
+2. [Svetunkov Ivan, Kourentzes Nikolaos, Ord J. Keith (2022). Complex Exponential Smoothing. Naval Research Logistics](/files/Svetunkov et al. (2022) - Complex Exponential Smoothing.pdf). 31. [10.1002/nav.22074](https://doi.org/10.1002/nav.22074)
 
