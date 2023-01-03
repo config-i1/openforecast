@@ -21,5 +21,17 @@
 This website is created in order to provide support for some R packages, related to forecasting. It is maintained by Ivan Svetunkov.</description>
     </item>
     
+    <item>
+      <title>Papers</title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description> This page contains the links to the papers relevant to R packages mentioned on the website.
+Svetunkov Ivan, 2023. Smooth forecasting with the smooth package in R. www.openforecast.org.
+ Svetunkov Ivan, Kourentzes Nikolaos, Ord J. Keith (2022). Complex Exponential Smoothing. Naval Research Logistics. 31. 10.1002/nav.22074
+  </description>
+    </item>
+    
   </channel>
 </rss>

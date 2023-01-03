@@ -20,11 +20,7 @@
 
   <body>
       <h1><center>Open Forecast</center></h1>
-    <nav>
-    <ul class="menu">
-      {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
-    <hr/>
-    </nav>
+        <nav>
+            {{ partial "nav.html" . }}
+        <hr/>
+        </nav>
